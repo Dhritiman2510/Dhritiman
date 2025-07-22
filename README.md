@@ -1,4 +1,8 @@
- Hey , I am Dhritiman Modak ,currently persuing Betch degree at Kalinga institute of Industrial Technology , Bhubhaneshwar , Odisha.
+👋 Hi, I'm Dhritiman Modak
+
+🎓 **Student at KIIT , CSE(AI & ML)**  
+📍 **Based in Bhubhaneshwar , Odisha , India**
+💻 **Passionate about programming, open-source, and continuous learning**
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_dhritiman_2510) 
 
