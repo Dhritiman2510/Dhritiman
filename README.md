@@ -1,4 +1,4 @@
-
+ Hey , I am Dhritiman Modak ,currently persuing Betch degree at Kalinga institute of Industrial Technology , Bhubhaneshwar , Odisha.
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_dhritiman_2510) 
 
