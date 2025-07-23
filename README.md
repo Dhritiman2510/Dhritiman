@@ -1,4 +1,5 @@
 👋 Hi, I'm Dhritiman Modak
+ **Currently learning different modules to become an AI & ML engineer**
 
 🎓 **Student at KIIT , CSE(AI & ML)**  
 📍 **Based in Bhubhaneshwar , Odisha , India**
